@@ -8,7 +8,7 @@ export const resume = {
   locationLink: "https://www.google.com/maps/place/Casablanca",
 
   about:
-    "I’m a <strong>CS student</strong> and <strong>just a begginger right now in development</strong>, daily <a href='https://github.com/vwh/nixos-config' target='_blank' class='underline break-all' style='color: #a2c9eb'>Fedora</a> user and <strong>GNU/Linux enthusiast</strong> exploring system programming to deepen my expertise.",
+    "I’m a <strong>CS student</strong> and <strong>just a begginger right now in development</strong>, daily <a href='https://fedoraproject.org/' target='_blank' class='underline break-all' style='color: #a2c9eb'>Fedora</a> user and <strong>GNU/Linux enthusiast</strong> exploring system programming to deepen my expertise.",
 
   languagesSummary:
     "Using <strong>TypeScript</strong> for type safety, <strong>JavaScript</strong> for flexibility not a senior in them just a vibe coder in that moment.",
@@ -28,7 +28,7 @@ export const resume = {
   ],
 
   contact: {
-    email: "vwh.e@pm.me",
+    email: "hyodu8@gmail.com",
     social: {
       GitHub: {
         name: "GitHub",
@@ -40,7 +40,7 @@ export const resume = {
       },
       LinkedIn: {
         name: "LinkedIn",
-        url: "https://www.linkedin.com/in/vwh-yazan/",
+        url: "https://www.linkedin.com/in/saad-v-03a5b8372?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
       },
     },
   },
@@ -83,7 +83,7 @@ export const resume = {
     },
     {
       title: "Moon",
-      active: true,
+      active: false,
       description: "Islamic Whatsapp bot teach u more about Islam religion.",
       links: [
         {
