@@ -1,4 +1,4 @@
-const ascii = `Welcome, I'm Saad this is my portfolio 🤚🏼`;
+const ascii = `Yokusu , Watashi no Portfolio 👋🏼`;
 
 export const resume = {
   name: "Saad",
@@ -8,7 +8,7 @@ export const resume = {
   locationLink: "https://www.google.com/maps/place/Casablanca",
 
   about:
-    "I’m a <strong>CS student</strong> and <strong>just a begginger right now in development</strong>, daily <a href='https://fedoraproject.org/' target='_blank' class='underline break-all' style='color: #a2c9eb'>Fedora</a> user and <strong>GNU/Linux enthusiast</strong> exploring system programming to deepen my expertise.",
+    "I’m a <strong>CS student</strong> and <strong>just a begginger right now in development</strong>, daily <a href='https://archlinux.org/' target='_blank' class='underline break-all' style='color: #a2c9eb'>Arch</a> user and <strong>GNU/Linux enthusiast</strong> exploring system programming to deepen my expertise.",
 
   languagesSummary:
     "Using <strong>TypeScript</strong> for type safety, <strong>JavaScript</strong> for flexibility not a senior in them just a vibe coder in that moment.",
@@ -20,11 +20,11 @@ export const resume = {
     "JavaScript",
     "TypeScript",
     "Node",
-    "Bun",
+    "Git",
     "Deno",
     "Linux",
-    "Gnome",
-    "Git",
+    "Hyprland",
+    "Gnome"
   ],
 
   contact: {
@@ -48,7 +48,7 @@ export const resume = {
   resumeLink: "./documents/resume.pdf",
 
   futurePlans:
-    "Diving into <strong>Linux Kernel</strong> with <strong>Fedora</strong>, <strong>Arch</strong>, and <strong>nixOS</strong> to master systems and configuration and understanding more about OS, and make my skills more better in web development inchaalah .",
+    "Diving into <strong>Linux Kernel</strong> with <strong>Arch</strong> and <strong>nixOS</strong> to master systems and configuration and understanding more about OS, and make my skills more better in web development inchaalah .",
 
   projects: [
     {
