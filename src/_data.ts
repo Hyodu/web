@@ -68,7 +68,7 @@ export const resume = {
     },
     {
       title: "Lunar",
-      active: true,
+      active: false,
       description: "Telegram bot helps Moroccan students to discover all the informations about the Moroccan universities.",
       links: [
         {
